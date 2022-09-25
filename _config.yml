@@ -7,7 +7,7 @@ title: Liberating Structures 中文站
 subtitle: ''
 description: ''
 keywords:
-author: Jacky Shen
+author: LS释放性结构实践社
 language: zh-cn
 timezone: ''
 
@@ -104,7 +104,7 @@ theme: landscape
 deploy:
   type: git
   repo: git@github.com:mebusw/liberatingstructures.git
-  branch: gh_pages
+  branch: gh-pages
 
 sitemap:
   path: sitemap.xml
