@@ -1,0 +1,808 @@
+[{
+  "_id": {
+    "$oid": "6013ede016c0e76552fcaf50"
+  },
+  "owner": {
+    "$oid": "6013ed795d874765204e4f93"
+  },
+  "deleted": false,
+  "content": [
+    {
+      "language": [
+        "zh-CN"
+      ],
+      "title": "…",
+      "notes": ""
+    }
+  ],
+  "createdBy": {
+    "$oid": "6013ed795d874765204e4f93"
+  },
+  "entries": [
+    {
+      "notes": "",
+      "metadata": {
+        "duration": 10
+      }
+    },
+    {
+      "entry": {
+        "$oid": "60125b5049e710024c68928d"
+      },
+      "notes": "",
+      "metadata": {
+        "duration": 30
+      }
+    },
+    {
+      "entry": {
+        "$oid": "6012568349e710024c689283"
+      },
+      "notes": "",
+      "metadata": {
+        "duration": 30
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-01-29T11:13:36.959Z"
+  },
+  "__v": 3,
+  "lastModifiedAt": {
+    "$date": "2021-01-29T11:13:56.337Z"
+  },
+  "lastModifiedBy": {
+    "$oid": "6013ed795d874765204e4f93"
+  },
+  "metadata": {
+    "duration": 70
+  }
+},
+{
+  "_id": {
+    "$oid": "6014c24f16c0e76552fcaf55"
+  },
+  "owner": {
+    "$oid": "601460ac16c0e76552fcaf52"
+  },
+  "deleted": false,
+  "content": [
+    {
+      "language": [
+        "zh-CN"
+      ],
+      "title": "Bill最爱",
+      "notes": ""
+    }
+  ],
+  "createdBy": {
+    "$oid": "601460ac16c0e76552fcaf52"
+  },
+  "entries": [
+    {
+      "entry": {
+        "$oid": "60125b6e49e710024c689290"
+      },
+      "notes": "",
+      "metadata": {
+        "duration": 45
+      }
+    },
+    {
+      "entry": {
+        "$oid": "6013b03a5d874765204e4f7f"
+      },
+      "notes": "",
+      "metadata": {
+        "duration": 60
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-01-30T02:19:59.751Z"
+  },
+  "__v": 5,
+  "lastModifiedAt": {
+    "$date": "2021-01-30T02:21:40.073Z"
+  },
+  "lastModifiedBy": {
+    "$oid": "601460ac16c0e76552fcaf52"
+  },
+  "metadata": {
+    "duration": 105
+  }
+},
+{
+  "_id": {
+    "$oid": "601a404e99efd63b75b66aee"
+  },
+  "owner": {
+    "$oid": "6013630e7296523e174dd0c0"
+  },
+  "deleted": false,
+  "content": [
+    {
+      "language": [
+        "zh-CN"
+      ],
+      "title": "app test string",
+      "notes": "app test notes"
+    }
+  ],
+  "createdBy": {
+    "$oid": "6013630e7296523e174dd0c0"
+  },
+  "entries": [
+    {
+      "notes": "like it",
+      "metadata": {
+        "duration": 20
+      }
+    },
+    {
+      "notes": "",
+      "metadata": {
+        "duration": 15
+      }
+    },
+    {
+      "entry": {
+        "$oid": "60125b6e49e710024c689290"
+      },
+      "notes": "finish",
+      "metadata": {
+        "duration": 20
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-02-03T06:18:54.793Z"
+  },
+  "__v": 10,
+  "lastModifiedAt": {
+    "$date": "2021-03-09T06:54:01.636Z"
+  },
+  "lastModifiedBy": {
+    "$oid": "6013630e7296523e174dd0c0"
+  },
+  "metadata": {
+    "duration": 55
+  }
+},
+{
+  "_id": {
+    "$oid": "6061420de8d35b62c6b48ea8"
+  },
+  "owner": {
+    "$oid": "6013ed795d874765204e4f93"
+  },
+  "deleted": false,
+  "content": [
+    {
+      "language": [
+        "zh-CN"
+      ],
+      "title": "demo",
+      "notes": ""
+    }
+  ],
+  "createdBy": {
+    "$oid": "6013ed795d874765204e4f93"
+  },
+  "entries": [
+    {
+      "entry": {
+        "$oid": "6012568349e710024c689283"
+      },
+      "notes": "",
+      "metadata": {
+        "duration": 10
+      }
+    },
+    {
+      "entry": {
+        "$oid": "60125b6e49e710024c689290"
+      },
+      "notes": "",
+      "metadata": {
+        "duration": 20
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-03-29T02:57:17.115Z"
+  },
+  "__v": 1,
+  "lastModifiedAt": {
+    "$date": "2021-03-29T02:57:26.725Z"
+  },
+  "lastModifiedBy": {
+    "$oid": "6013ed795d874765204e4f93"
+  },
+  "metadata": {
+    "duration": 30
+  }
+},
+{
+  "_id": {
+    "$oid": "6062f044b4b6a4639120d9f5"
+  },
+  "owner": null,
+  "deleted": false,
+  "content": [
+    {
+      "language": [
+        "zh-CN"
+      ],
+      "title": "找到日常解决方案",
+      "notes": "会议死板或毫无启发性、人们花在分享 PPT 上的时间多于做事的时间、死板的做法成了阻碍、自上而下的倡议没人响应、引进的最佳实践不受欢迎等。其中任何一项都清楚地表明需要做出改变。例如，停止没有产出的活动，挖掘隐性知识来激发新想法，发现本地解决方案，建立信任以及协调行动。\n\n这是《释放性结构》图书中的LS工具串联组合示例。"
+    },
+    {
+      "language": [
+        "en-GB"
+      ],
+      "title": "Finding Everyday Solutions",
+      "notes": "Simple example String for finding everyday solutions."
+    }
+  ],
+  "entries": [
+    {
+      "metadata": {
+        "duration": 10
+      },
+      "entry": {
+        "$oid": "6059be7db8c1e4694f60f6c3"
+      }
+    },
+    {
+      "metadata": {
+        "duration": 35
+      },
+      "entry": {
+        "$oid": "6012568349e710024c689283"
+      }
+    },
+    {
+      "metadata": {
+        "duration": 20
+      },
+      "entry": {
+        "$oid": "60125b6e49e710024c689290"
+      }
+    },
+    {
+      "metadata": {
+        "duration": 30
+      },
+      "entry": {
+        "$oid": "6059c08ab8c1e4694f60f6c6"
+      }
+    }
+  ],
+  "metadata": {
+    "duration": 95
+  },
+  "createdBy": {
+    "$oid": "600bfa22916c1c4305fe16a8"
+  },
+  "createdAt": {
+    "$date": "2021-03-30T09:32:52.188Z"
+  },
+  "__v": 3,
+  "lastModifiedAt": {
+    "$date": "2023-10-08T03:01:35.356Z"
+  },
+  "lastModifiedBy": {
+    "$oid": "600bfa22916c1c4305fe16a8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6062f0eab4b6a4639120d9f6"
+  },
+  "owner": null,
+  "deleted": false,
+  "content": [
+    {
+      "language": [
+        "zh-CN"
+      ],
+      "title": "共同关注到模式",
+      "notes": "小组成员愤世嫉俗、人们不再看到积极变化的机会、小组感到陷人困境、令人惊讶或震惊的偏离预期或扰乱市场的事件。以上任何一项都表明需要做出改变，例如，寻找新的方式来理解复杂的挑战、扩大~方案的范围、通过将更多人纳人共同诊断模式以确定更多的行动计划并澄清系统范围内所需要的协同。\n\n这是《释放性结构》图书中的LS工具串联组合示例。"
+    },
+    {
+      "language": [
+        "en-GB"
+      ],
+      "title": "Noticing Patterns Together",
+      "notes": "Simple example String for noticing patterns together"
+    }
+  ],
+  "entries": [
+    {
+      "metadata": {
+        "duration": 35
+      },
+      "entry": {
+        "$oid": "6059b332dd74416923a52e12"
+      }
+    },
+    {
+      "metadata": {
+        "duration": 60
+      },
+      "entry": {
+        "$oid": "6013b03a5d874765204e4f7f"
+      }
+    },
+    {
+      "metadata": {
+        "duration": 45
+      },
+      "entry": {
+        "$oid": "60596185b8c1e4694f60f6a4"
+      }
+    }
+  ],
+  "metadata": {
+    "duration": 140
+  },
+  "createdBy": {
+    "$oid": "600bfa22916c1c4305fe16a8"
+  },
+  "createdAt": {
+    "$date": "2021-03-30T09:35:38.903Z"
+  },
+  "__v": 2,
+  "lastModifiedAt": {
+    "$date": "2023-10-08T03:39:45.005Z"
+  },
+  "lastModifiedBy": {
+    "$oid": "600bfa22916c1c4305fe16a8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6062f1ade8d35b62c6b48ee7"
+  },
+  "owner": null,
+  "deleted": false,
+  "content": [
+    {
+      "language": [
+        "zh-CN"
+      ],
+      "title": "勾绘出原型",
+      "notes": "当前的活动、服务或产品效果不佳;有创造力的人感到沮丧或被孤立;没有明确途径生成新思路来吸引投资;重要的客户需求被忽略;给当前产品“打补丁”非常昂贵。以上任何一项都表明需要做出改变。例如，在迎接新事物出现的同时，揭示和明确已经在起作用的事物；画出成功的“块”，并以新的方式将它们组合起来；释放所有人的潜力来建造原型；加快进步和迅速传播。\n\n这是《释放性结构》图书中的LS工具串联组合示例。"
+    },
+    {
+      "language": [
+        "en-GB"
+      ],
+      "title": "Drawing Out Prototypes",
+      "notes": "Simple example String for drawing out prototypes"
+    }
+  ],
+  "entries": [
+    {
+      "metadata": {
+        "duration": 95
+      },
+      "entry": {
+        "$oid": "6013b03a5d874765204e4f7f"
+      }
+    },
+    {
+      "metadata": {
+        "duration": 60
+      },
+      "entry": {
+        "$oid": "6059be7db8c1e4694f60f6c3"
+      }
+    },
+    {
+      "metadata": {
+        "duration": 35
+      },
+      "entry": {
+        "$oid": "60584ad0dd74416923a52dfb"
+      }
+    }
+  ],
+  "metadata": {
+    "duration": 190
+  },
+  "createdBy": {
+    "$oid": "600bfa22916c1c4305fe16a8"
+  },
+  "createdAt": {
+    "$date": "2021-03-30T09:38:53.777Z"
+  },
+  "__v": 2,
+  "lastModifiedAt": {
+    "$date": "2023-10-08T03:24:48.500Z"
+  },
+  "lastModifiedBy": {
+    "$oid": "600bfa22916c1c4305fe16a8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6062f213e8d35b62c6b48ee8"
+  },
+  "owner": null,
+  "deleted": false,
+  "content": [
+    {
+      "language": [
+        "zh-CN"
+      ],
+      "title": "激发局部的行动",
+      "notes": "人们不愿冒险;正等待行动许可，层层的繁文筹节扼杀了创造力;花在分享 PPT 上的时间多于行动;陷人“分析性瘫痪”。其中任何一个信号都表明需要做出改变，例如，在没有详细计划或详尽预算的情况下在大型团体中释放有目的的行动;以最小的授权限制来激发自由和责任感;改善对各种活动的协调。\n\n这是《释放性结构》图书中的LS工具串联组合示例。"
+    },
+    {
+      "language": [
+        "en-GB"
+      ],
+      "title": "Unleashing Local Action",
+      "notes": "Simple example String for unleashing local action"
+    }
+  ],
+  "entries": [
+    {
+      "metadata": {
+        "duration": 30
+      },
+      "entry": {
+        "$oid": "605993bcb8c1e4694f60f6a7"
+      }
+    },
+    {
+      "metadata": {
+        "duration": 35
+      },
+      "entry": {
+        "$oid": "60596185b8c1e4694f60f6a4"
+      }
+    },
+    {
+      "metadata": {
+        "duration": 90
+      },
+      "entry": {
+        "$oid": "60125b5049e710024c68928d"
+      }
+    }
+  ],
+  "metadata": {
+    "duration": 155
+  },
+  "createdBy": {
+    "$oid": "600bfa22916c1c4305fe16a8"
+  },
+  "createdAt": {
+    "$date": "2021-03-30T09:40:35.703Z"
+  },
+  "__v": 4,
+  "lastModifiedAt": {
+    "$date": "2023-10-08T03:36:15.027Z"
+  },
+  "lastModifiedBy": {
+    "$oid": "600bfa22916c1c4305fe16a8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6062f2b0e8d35b62c6b48ee9"
+  },
+  "owner": null,
+  "deleted": false,
+  "content": [
+    {
+      "language": [
+        "zh-CN"
+      ],
+      "title": "通过向外、向上扩展来传播创新",
+      "notes": "创新没有传播到其他群体、采用的创新规范不适合多样化的运营实际、地方一级的解决方案没有扩大规模、当地单位“博弈”或忽略了创新标准化实践的正式努力。以上任何一项都表明需要做出改变，例如.在团队、单位之间传播思想或创新，从当地扩展到区域、全球或政策级别，推动跨边界的变动和转化。\n\n这是《释放性结构》图书中的LS工具串联组合示例。"
+    },
+    {
+      "language": [
+        "en-GB"
+      ],
+      "title": "Spreading Innovation by Scaling Out and Up",
+      "notes": "Simple example String for spreading innovation by scaling out and up"
+    }
+  ],
+  "entries": [
+    {
+      "metadata": {
+        "duration": 35
+      },
+      "entry": {
+        "$oid": "6019024499efd63b75b66adb"
+      }
+    },
+    {
+      "metadata": {
+        "duration": 20
+      },
+      "entry": {
+        "$oid": "60596185b8c1e4694f60f6a4"
+      }
+    },
+    {
+      "metadata": {
+        "duration": 95
+      },
+      "entry": {
+        "$oid": "60584ad0dd74416923a52dfb"
+      }
+    },
+    {
+      "metadata": {
+        "duration": 120
+      },
+      "entry": {
+        "$oid": "60599c59b8c1e4694f60f6ab"
+      }
+    }
+  ],
+  "metadata": {
+    "duration": 270
+  },
+  "createdBy": {
+    "$oid": "600bfa22916c1c4305fe16a8"
+  },
+  "createdAt": {
+    "$date": "2021-03-30T09:43:12.943Z"
+  },
+  "__v": 5,
+  "lastModifiedAt": {
+    "$date": "2023-10-08T03:38:58.593Z"
+  },
+  "lastModifiedBy": {
+    "$oid": "600bfa22916c1c4305fe16a8"
+  }
+},
+{
+  "_id": {
+    "$oid": "651c01f12eaa825a7bab7089"
+  },
+  "owner": {
+    "$oid": "651639a875802d599cae2976"
+  },
+  "deleted": false,
+  "content": [
+    {
+      "language": [
+        "zh-CN"
+      ],
+      "title": "test",
+      "notes": "ttt\nfdasd\nfads"
+    }
+  ],
+  "createdBy": {
+    "$oid": "651639a875802d599cae2976"
+  },
+  "entries": [
+    {
+      "entry": {
+        "$oid": "6013b03a5d874765204e4f7f"
+      },
+      "notes": "",
+      "metadata": {
+        "duration": 60
+      }
+    },
+    {
+      "entry": {
+        "$oid": "6012568349e710024c689283"
+      },
+      "notes": "fdafads",
+      "metadata": {
+        "duration": 10
+      }
+    },
+    {
+      "notes": "",
+      "metadata": {
+        "duration": 10
+      }
+    },
+    {
+      "notes": "",
+      "metadata": {
+        "duration": 10
+      }
+    },
+    {
+      "entry": {
+        "$oid": "60125b5049e710024c68928d"
+      },
+      "notes": "",
+      "metadata": {
+        "duration": 30
+      }
+    },
+    {
+      "entry": {
+        "$oid": "60584ad0dd74416923a52dfb"
+      },
+      "notes": "",
+      "metadata": {
+        "duration": 95
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-10-03T11:58:41.105Z"
+  },
+  "__v": 9,
+  "lastModifiedAt": {
+    "$date": "2023-10-10T01:44:38.385Z"
+  },
+  "lastModifiedBy": {
+    "$oid": "651639a875802d599cae2976"
+  },
+  "metadata": {
+    "duration": 215
+  }
+},
+{
+  "_id": {
+    "$oid": "652219ea2eaa825a7bab709a"
+  },
+  "owner": null,
+  "deleted": false,
+  "content": [
+    {
+      "language": [
+        "zh-CN"
+      ],
+      "title": "管理层团队静修工作坊",
+      "notes": "目标：制定战略并建立新的管理团队。让团队走到一起共事，找出更具创造性的共事方式，回顾并形成市场战略。"
+    },
+    {
+      "language": [
+        "en-GB"
+      ],
+      "title": "Management Team Retreat Workshop",
+      "notes": "Develop a strategy and establish a new management team; Bring the team together to collaborate and discover more creative ways of working, review and formulate a market strategy."
+    }
+  ],
+  "entries": [
+    {
+      "metadata": {
+        "duration": 20
+      },
+      "entry": {
+        "$oid": "6012568349e710024c689283"
+      }
+    },
+    {
+      "metadata": {
+        "duration": 120
+      },
+      "entry": {
+        "$oid": "605993bcb8c1e4694f60f6a7"
+      }
+    },
+    {
+      "metadata": {
+        "duration": 10
+      }
+    },
+    {
+      "metadata": {
+        "duration": 60
+      },
+      "entry": {
+        "$oid": "60583196dd74416923a52df1"
+      }
+    },
+    {
+      "metadata": {
+        "duration": 30
+      },
+      "entry": {
+        "$oid": "6059b332dd74416923a52e12"
+      }
+    }
+  ],
+  "metadata": {
+    "duration": 240
+  },
+  "createdBy": {
+    "$oid": "600bfa22916c1c4305fe16a8"
+  },
+  "createdAt": {
+    "$date": "2023-10-08T02:54:34.007Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6524aca22eaa825a7bab70a0"
+  },
+  "owner": {
+    "$oid": "651639a875802d599cae2976"
+  },
+  "deleted": false,
+  "content": [
+    {
+      "language": [
+        "zh-CN"
+      ],
+      "title": "test2",
+      "notes": "decdfa\nf\nasd\nfsda\nfads\nf\nds\ngggggggggggggfdasgfd\nsgfgfdfafffffffffffdssssssssssssssssssssssfdfsddssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssfgggggggggggggggggg"
+    }
+  ],
+  "createdBy": {
+    "$oid": "651639a875802d599cae2976"
+  },
+  "entries": [
+    {
+      "entry": {
+        "$oid": "6013b03a5d874765204e4f7f"
+      },
+      "notes": "fdsfsda",
+      "metadata": {
+        "duration": 60
+      }
+    },
+    {
+      "notes": "rest",
+      "metadata": {
+        "duration": 10
+      }
+    },
+    {
+      "entry": {
+        "$oid": "601b509d99efd63b75b66b04"
+      },
+      "notes": "",
+      "metadata": {
+        "duration": 35
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-10-10T01:45:06.689Z"
+  },
+  "__v": 1,
+  "lastModifiedAt": {
+    "$date": "2023-10-10T01:45:31.495Z"
+  },
+  "lastModifiedBy": {
+    "$oid": "651639a875802d599cae2976"
+  },
+  "metadata": {
+    "duration": 105
+  }
+},
+{
+  "_id": {
+    "$oid": "65250ccf2eaa825a7bab70a3"
+  },
+  "owner": {
+    "$oid": "65250ade75802d599cae29a1"
+  },
+  "deleted": false,
+  "content": [
+    {
+      "language": [
+        "zh-CN"
+      ],
+      "title": "木易老师",
+      "notes": ""
+    }
+  ],
+  "createdBy": {
+    "$oid": "65250ade75802d599cae29a1"
+  },
+  "entries": [],
+  "createdAt": {
+    "$date": "2023-10-10T08:35:27.143Z"
+  },
+  "__v": 0
+}]

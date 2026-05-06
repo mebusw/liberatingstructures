@@ -1,0 +1,93 @@
+{
+  "_id": {
+    "$oid": "6012568349e710024c689283"
+  },
+  "iconURL": "https://libstr.agilecoach.cn/entry-icons/60125b2f49e710024c689289",
+  "deleted": false,
+  "sequence": 1,
+  "statistics": {
+    "favorite": 0,
+    "like": 23
+  },
+  "__v": 37,
+  "content": [
+    {
+      "language": [
+        "zh-CN"
+      ],
+      "title": "1-2-4-all",
+      "summary": "让大家同时参与讨论问题、思想激荡和提出建议",
+      "tags": [
+        {
+          "text": "揭示",
+          "foreColor": "#84A2D3",
+          "backColor": "#CEDAEE"
+        }
+      ],
+      "sections": [
+        {
+          "contentType": "text/html",
+          "title": "What",
+          "content": "<h3>什么成为可能</h3><div>无论人数多少，你都可以立即让每个人参与进来。你可以产生更好的想法，并且比以往任何时候都快。你可以利用广泛分布的但并不预知的专有技术和想象力。</div><div><br></div><div>开放的、有生产力的对话得以展开。想法和解决方案被迅速筛选。最重要的是，参与者拥有想法，因此后续行动和实施得到简化。无需事先说服！简约优雅！</div><div><br></div><h3>其他信息</h3><div>请参考LS官方网站（上面包含一些实战图片及图例）</div><div><b><font color=\"#ff0000\"><a href=\"http://www.liberatingstructures.com/1-1-2-4-all/\">https://www.liberatingstructures.com/1-1-2-4-all/</a></font></b></div><div><br></div><h3>原始作者</h3><div>由Henri Lipmanowicz和Keith McCandless开发的释放性结构-LS共创工具</div>"
+        },
+        {
+          "contentType": "text/html",
+          "title": "How",
+          "content": "<h3>打造邀请</h3><ul><li>回应一个问题的提出，或者针对要解决的问题或者针对提出的建议来问一个问题（例如，在挑战取得进展方面，你看到的机会是什么？您将如何处理这种情况？你推荐什么想法或行动）</li></ul><div><br></div><h3>所需空间和材料</h3><ul><li>不限组数</li><li>为与会者面对面地以两人或四人一组的方式工作而准备空间</li><li>椅子和桌子可选</li><li>为与会者准备记录观察和见解的纸</li></ul><div><br></div><h3>参与方式</h3><ul><li>小组中的每个人都被纳入其中（通常不包含引导者）</li><li>每个人都有平等的机会作出贡献</li></ul><div><br></div><h3>分组方式</h3><ul><li>先是个体，然后是两人，然后是四人组，最后是所有人</li></ul><div><br></div><h3>步骤和时间分配</h3><ul><li>由个人就共同的挑战进行默默的自我反思，并以问题的形式提出（例如，您认为在这次挑战上取得进展的机会是什么？您将如何处理这种情况？您建议采取什么想法或行动？ 1分钟</li><li>在自我反思的想法基础上，两人一组产生想法。2分钟</li><li>在四人组中分享并发展你们对此的想法（注意异同）。4分钟</li><li>问：\"在你们的谈话中，一个突出的想法是什么？\"每个小组与大家分享一个重要的想法（根据需要重复循环进行）。5分钟&nbsp;</li></ul><div><br></div><h3>小贴士和陷阱</h3><ul><li>在配对谈话前，坚定地引导大家进行安静的自我反思</li><li>请大家在默默思考的过程中记下自己的想法</li><li>用钟声来宣布过渡</li><li>坚持精确的时间，必要时再做一轮</li><li>在\"全体\"期间的大组中，将分享的想法限制在三到四个范围内</li><li>在一个大组中，引导者或点子收集者记录没有分享的产出</li><li>请每个小组分享一个见解，但不要重复已经分享的见解</li><li>将整个小组讨论的内容与分组产生的想法分开并加以保护</li><li>推迟判断;让想法变得可视化;玩得嗨一点!</li><li>当你遇到低谷时，可以转换另一种表达方式（如即兴表演、素描、讲故事）</li><li>保持全组同时只有一次谈话的规则</li><li>如果你进展地不够深入，可以做第二轮!</li></ul><div><br></div><h3>即兴发挥</h3><ul><li>以图形方式记录小组讨论中涌现的见解</li><li>在第2轮和第3轮中使用便签</li><li>将出现的想法与<a href=\"http://设计故事板\" target=\"_blank\">设计故事板</a>、<a href=\"http://即兴原型表演\" target=\"_blank\">即兴原型表演</a>、<a href=\"http://生态环\">生态环</a>联系起来</li><li>将4人一组调整为8人一组，并达成共识。Liz Rykert（Henri Lipmanowicz的同事）称其为\"八爪鱼\"!</li></ul>"
+        },
+        {
+          "contentType": "text/html",
+          "title": "Why",
+          "content": "<h3>目的</h3><ul><li>让每个人都参与寻找答案</li><li>避免过度帮助和过度控制-依赖的恶性循环</li><li>创造安全的表达空间，减少权力差异</li><li>表达\"无声\"的对话，拓展输入的多样性</li><li>在表达想法之前丰富观察和见解的质量</li><li>自然而然地建立共识或共同理解</li></ul><div><br></div><h3>示例</h3><ul><li>在演讲或演示后，当需要获得丰富的反馈（如问题、评论和想法）时使用该方法，而不是问听众：\"有问题吗？\"</li><li>一组经理人用两轮1-2-4-All来重新设计他们的不那么刺激的周会</li><li>适用于在宣布会议主题后开始的自发的谈话</li><li>适用于为解决某个问题或创新机会而召集的小组</li><li>适用于打开一个功能障碍或陷入困境的讨论</li><li>代替领导者\"告诉\"人们该怎么想、怎么做（通常是无意的）</li><li>适用于一个倾向于被其领导者过度影响的群体</li><li>阅读LS书的第三部分，来自实地的故事中Craig Yeatman的故事。关于使用1-2-4-All来帮助管理合并决策的故事： \"使包容的高风险决策变得简单\"案例</li></ul><div><br></div>"
+        }
+      ]
+    },
+    {
+      "language": [
+        "en-GB"
+      ],
+      "title": "1-2-4-All",
+      "summary": "Engage Everyone Simultaneously in Generating Questions, Ideas, and Suggestions (12 min.)",
+      "tags": [
+        {
+          "text": "Reveal",
+          "foreColor": "#84A2D3",
+          "backColor": "#CEDAEE"
+        }
+      ],
+      "sections": [
+        {
+          "contentType": "text/html",
+          "title": "What",
+          "content": "<h3>What is made possible?&nbsp;</h3><p>You can immediately include everyone regardless of how large the group is. You can generate better ideas and more of them faster than ever before. You can tap the know-how and imagination that is distributed widely in places not known in advance. Open, generative conversation unfolds. Ideas and solutions are sifted in rapid fashion. Most importantly, participants own the ideas, so follow-up and implementation is simplified. No buy-in strategies needed! Simple and elegant!</p><p><span style=\"font-size: inherit; color: inherit;\"><br></span></p><h3>Attribution:&nbsp;</h3><p><span style=\"color: inherit; font-size: inherit;\">Liberating Structure developed by Henri Lipmanowicz and Keith McCandless</span><br></p>"
+        },
+        {
+          "contentType": "text/html",
+          "title": "How",
+          "content": "<h3>Structuring Invitation</h3><ul><li>Ask a question in response to the presentation of an issue, or about a problem to resolve or a proposal put forward (e.g., What opportunities do YOU see for making progress on this challenge? How would you handle this situation? What ideas or actions do you recommend?)</li></ul><div><br></div><h3>How Space Is Arranged and Materials Needed</h3><ul><li>Unlimited number of groups</li><li>Space for participants to work face-to-face in pairs and foursomes</li><li>Chairs and tables optional</li><li>Paper for participants to record observations and insights</li></ul><div><br></div><h3>How Participation Is Distributed</h3><ul><li>Everyone in the group is included (often not the facilitator)</li><li>Everyone has an equal opportunity to contribute</li></ul><div><br></div><h3>How Groups Are Configured</h3><ul><li>Start alone, then in pairs, then foursomes, and finally as a whole group</li></ul><div><br></div><h3>Sequence of Steps and Time Allocation</h3><ul><li>Silent self-reflection by individuals on a shared challenge, framed as a question (e.g., What opportunities do YOU see for making progress on this challenge? How would you handle this situation? What ideas or actions do you recommend?) 1 min.</li><li>Generate ideas in pairs, building on ideas from self-reflection. 2 min.</li><li>Share and develop ideas from your pair in foursomes (notice similarities and differences). 4 min.</li><li>Ask, “What is one idea that stood out in your conversation?” Each group shares one important idea with all (repeat cycle as needed). 5 min.&nbsp;</li></ul><div><br></div><h3>Tips and Traps</h3><ul><li>Firmly facilitate quiet self-reflection before paired conversations</li><li>Ask everyone to jot down their ideas during the silent reflection</li><li>Use bells for announcing transitions</li><li>Stick to precise timing, do another round if needed</li><li>In a large group during “All,” limit the number of shared ideas to three or four</li><li>In a large group, use a facilitator or harvester to record output not shared</li><li>Invite each group to share one insight but not to repeat insights already shared</li><li>Separate and protect generation of ideas from the whole group discussion</li><li>Defer judgment; make ideas visual; go wild!</li><li>When you hit a plateau, jump to another form of expression (e.g., Improv, sketching, stories)</li><li>Maintain the rule of one conversation at a time in the whole group</li><li>Do a second round if you did not go deep enough!</li></ul><div><br></div><h3>Riffs and Variations</h3><ul><li>Graphically record insights as they emerge from groups</li><li>Use Post-it notes in Rounds 2 and 3</li><li>Link ideas that emerge to <a href=\"http://Design StoryBoards – Basic\" target=\"_blank\">Design StoryBoards – Basic</a>, <a href=\"http://Improv Prototyping\" target=\"_blank\">Improv Prototyping</a>, <a href=\"http://Ecocycle Planning\" target=\"_blank\">Ecocycle Planning</a></li><li>Go from groups of 4 to groups of 8 with consensus in mind. Colleague Liz Rykert calls this Octopus!</li></ul>"
+        },
+        {
+          "contentType": "text/html",
+          "title": "Why",
+          "content": "<h3>Purposes</h3><ul><li>Engage every individual in searching for answers</li><li>Avoid overhelping and the overcontrol-dependency vicious cycle</li><li>Create safe spaces for expression, diminish power differentials</li><li>Express “silent” conversations and expand diversity of inputs</li><li>Enrich quality of observations and insights before expression</li><li>Build naturally toward consensus or shared understanding</li><li><br></li></ul><h3>Examples</h3><ul><li>Use after a speech or presentation, when it is important to get rich feedback (questions, comments, and ideas), instead of asking the audience, “Any questions?”</li><li>A group of managers used two rounds of 1-2-4-All to redesign their less-than-stimulating weekly meeting.</li><li>For a spontaneous conversation that starts after the topic of a meeting has been announced</li><li>For a group that has been convened to address a problem or an innovation opportunity</li><li>For unlocking a discussion that has become dysfunctional or stuck</li><li>In place of a leader “telling” people what to think and do (often unintentionally)</li><li>For a group that tends to be excessively influenced by its leader</li><li>Read Craig Yeatman’s story in Part Three: Stories from the Field about using 1-2-4-All to help manage a merger decision, “Inclusive High-Stakes Decision Making Made Easy.”</li></ul>"
+        }
+      ]
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-01-28T06:36:00.600Z"
+  },
+  "createdBy": {
+    "$oid": "600bfa22916c1c4305fe16a8"
+  },
+  "lastModifiedAt": {
+    "$date": "2023-10-03T09:39:47.152Z"
+  },
+  "lastModifiedBy": {
+    "$oid": "600bfa22916c1c4305fe16a8"
+  },
+  "metadata": {
+    "minDuration": 10,
+    "maxDuration": 12
+  }
+}

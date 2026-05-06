@@ -1,0 +1,1612 @@
+[{
+  "_id": {
+    "$oid": "600f6d15bbb3ef7075debe9e"
+  },
+  "length": 1092,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-01-26T01:15:01.247Z"
+  },
+  "filename": "group-1.png",
+  "md5": "fdf16d234d3c7ff0236f6bf9c4f8d1ef",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "600f6e54bbb3ef7075debea0"
+  },
+  "length": 7192,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-01-26T01:20:20.014Z"
+  },
+  "filename": "group-3.png",
+  "md5": "abdbaced770bf1c2a19b4eecad7238ae",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "600f6eaabbb3ef7075debea2"
+  },
+  "length": 961,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-01-26T01:21:46.314Z"
+  },
+  "filename": "group-0.png",
+  "md5": "f0e9f1d721468e773cf4fd85782c4cbc",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "600f70c2bbb3ef7075debea5"
+  },
+  "length": 961,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-01-26T01:30:42.786Z"
+  },
+  "filename": "group-0.png",
+  "md5": "f0e9f1d721468e773cf4fd85782c4cbc",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "600f70d5bbb3ef7075debea7"
+  },
+  "length": 961,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-01-26T01:31:01.777Z"
+  },
+  "filename": "group-0.png",
+  "md5": "f0e9f1d721468e773cf4fd85782c4cbc",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "600f82eebbb3ef7075debeaa"
+  },
+  "length": 961,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-01-26T02:48:14.234Z"
+  },
+  "filename": "group-0.png",
+  "md5": "f0e9f1d721468e773cf4fd85782c4cbc",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "600faa9731092e249092964e"
+  },
+  "length": 1102,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-01-26T05:37:27.883Z"
+  },
+  "filename": "group-2.png",
+  "md5": "9148da1fa05c3202257dde218d927daf",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "600fab5331092e2490929651"
+  },
+  "length": 1092,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-01-26T05:40:35.445Z"
+  },
+  "filename": "group-1.png",
+  "md5": "fdf16d234d3c7ff0236f6bf9c4f8d1ef",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "600fabb731092e2490929653"
+  },
+  "length": 1092,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-01-26T05:42:15.766Z"
+  },
+  "filename": "group-1.png",
+  "md5": "fdf16d234d3c7ff0236f6bf9c4f8d1ef",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "600fabdc31092e2490929656"
+  },
+  "length": 7192,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-01-26T05:42:52.881Z"
+  },
+  "filename": "group-3.png",
+  "md5": "abdbaced770bf1c2a19b4eecad7238ae",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "600fb6da4b562942c5e401e4"
+  },
+  "length": 7192,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-01-26T06:29:46.600Z"
+  },
+  "filename": "group-3.png",
+  "md5": "abdbaced770bf1c2a19b4eecad7238ae",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "600fb81898709f43e15ce928"
+  },
+  "length": 1102,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-01-26T06:35:04.326Z"
+  },
+  "filename": "group-2.png",
+  "md5": "9148da1fa05c3202257dde218d927daf",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6010d23398709f43e15ce935"
+  },
+  "length": 1835,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-01-27T02:38:43.662Z"
+  },
+  "filename": "1-2-4-all.png",
+  "md5": "a36ff6b902cfeba7a363b6aae6b7a3f5",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6010d27898709f43e15ce937"
+  },
+  "length": 1835,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-01-27T02:39:52.261Z"
+  },
+  "filename": "1-2-4-all.png",
+  "md5": "a36ff6b902cfeba7a363b6aae6b7a3f5",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6010d3ed98709f43e15ce93a"
+  },
+  "length": 1835,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-01-27T02:46:05.399Z"
+  },
+  "filename": "1-2-4-all.png",
+  "md5": "a36ff6b902cfeba7a363b6aae6b7a3f5",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6010d66598709f43e15ce93d"
+  },
+  "length": 1835,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-01-27T02:56:37.024Z"
+  },
+  "filename": "1-2-4-all.png",
+  "md5": "a36ff6b902cfeba7a363b6aae6b7a3f5",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "601103539110e37a3457f886"
+  },
+  "length": 2701,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-01-27T06:08:19.325Z"
+  },
+  "filename": "9-whys.png",
+  "md5": "6a799c6358ad4047d345f601bfa4a2d7",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "60124f7d49e710024c68927e"
+  },
+  "length": 1835,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-01-28T05:45:33.326Z"
+  },
+  "filename": "1-2-4-all.png",
+  "md5": "a36ff6b902cfeba7a363b6aae6b7a3f5",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6012566c49e710024c689281"
+  },
+  "length": 1835,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-01-28T06:15:08.163Z"
+  },
+  "filename": "1-2-4-all.png",
+  "md5": "a36ff6b902cfeba7a363b6aae6b7a3f5",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "60125b1949e710024c689285"
+  },
+  "length": 2701,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-01-28T06:35:05.974Z"
+  },
+  "filename": "9-whys.png",
+  "md5": "6a799c6358ad4047d345f601bfa4a2d7",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "60125b2a49e710024c689287"
+  },
+  "length": 2701,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-01-28T06:35:22.083Z"
+  },
+  "filename": "9-whys.png",
+  "md5": "6a799c6358ad4047d345f601bfa4a2d7",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "60125b2f49e710024c689289"
+  },
+  "length": 1835,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-01-28T06:35:27.380Z"
+  },
+  "filename": "1-2-4-all.png",
+  "md5": "a36ff6b902cfeba7a363b6aae6b7a3f5",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "60125b3649e710024c68928b"
+  },
+  "length": 2701,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-01-28T06:35:34.117Z"
+  },
+  "filename": "9-whys.png",
+  "md5": "6a799c6358ad4047d345f601bfa4a2d7",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "60125b5749e710024c68928e"
+  },
+  "length": 2594,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-01-28T06:36:07.334Z"
+  },
+  "filename": "15-percent-solutions.png",
+  "md5": "00b1fda95a0a537a5179e0719f5c1734",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "60127f6349e710024c689295"
+  },
+  "length": 2106,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-01-28T09:09:55.400Z"
+  },
+  "filename": "25-10-crowdsourcing.png",
+  "md5": "24d94c5cced0e5b08ea5118ca3d39316",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "60129c0749e710024c689298"
+  },
+  "length": 2106,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-01-28T11:12:07.832Z"
+  },
+  "filename": "25-10-crowdsourcing.png",
+  "md5": "24d94c5cced0e5b08ea5118ca3d39316",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6013741a413009413b4bea87"
+  },
+  "length": 4903,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-01-29T02:34:02.279Z"
+  },
+  "filename": "conversation-cafe.png",
+  "md5": "f7f5fcac77c9c69cc76e8ea328d5aa77",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6013744e115687410dda55eb"
+  },
+  "length": 3461,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-01-29T02:34:54.139Z"
+  },
+  "filename": "discovery-and-action-dialog.png",
+  "md5": "bbbfb955bd6e26e550bb209939738bea",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "601374aa115687410dda55ed"
+  },
+  "length": 2212,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-01-29T02:36:26.173Z"
+  },
+  "filename": "generative-relationships.png",
+  "md5": "506274cdaa945fbae49d101e0fd7e774",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6013838416c0e76552fcaf35"
+  },
+  "length": 3553,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-01-29T03:39:48.781Z"
+  },
+  "filename": "drawing-together.png",
+  "md5": "9dc424ac31b71ba85b752a3a065a8728",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6013839116c0e76552fcaf38"
+  },
+  "length": 3461,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-01-29T03:40:01.438Z"
+  },
+  "filename": "discovery-and-action-dialog.png",
+  "md5": "bbbfb955bd6e26e550bb209939738bea",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6013841c16c0e76552fcaf3b"
+  },
+  "length": 3461,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-01-29T03:42:20.711Z"
+  },
+  "filename": "discovery-and-action-dialog.png",
+  "md5": "bbbfb955bd6e26e550bb209939738bea",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6013844f5d874765204e4f76"
+  },
+  "length": 4824,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-01-29T03:43:11.454Z"
+  },
+  "filename": "design-elements.png",
+  "md5": "74f4819467c83cf27960193bad5c26b3",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "601395595d874765204e4f78"
+  },
+  "length": 4679,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-01-29T04:55:53.387Z"
+  },
+  "filename": "improv-prototyping.png",
+  "md5": "3b96bca7e67311a74d667e6c1bbc5ab0",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6013a13916c0e76552fcaf40"
+  },
+  "length": 3510,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-01-29T05:46:33.896Z"
+  },
+  "filename": "helping-heuristics.png",
+  "md5": "90b2fddecd3f7512e0d508c27e21f3fb",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6013ad695d874765204e4f7d"
+  },
+  "length": 6654,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-01-29T06:38:33.205Z"
+  },
+  "filename": "appreciative-interviews.png",
+  "md5": "426fcc8823f1d859b5adcbd362d86d7d",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6013da5d5d874765204e4f89"
+  },
+  "length": 4679,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-01-29T09:50:21.338Z"
+  },
+  "filename": "improv-prototyping.png",
+  "md5": "3b96bca7e67311a74d667e6c1bbc5ab0",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6014fc9e16c0e76552fcaf56"
+  },
+  "length": 2701,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-01-30T06:28:46.770Z"
+  },
+  "filename": "9-whys.png",
+  "md5": "6a799c6358ad4047d345f601bfa4a2d7",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6014fd775d874765204e4f97"
+  },
+  "length": 2701,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-01-30T06:32:23.748Z"
+  },
+  "filename": "9-whys.png",
+  "md5": "6a799c6358ad4047d345f601bfa4a2d7",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6014fead5d874765204e4f99"
+  },
+  "length": 3553,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-01-30T06:37:33.347Z"
+  },
+  "filename": "drawing-together.png",
+  "md5": "9dc424ac31b71ba85b752a3a065a8728",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6014ff595d874765204e4f9b"
+  },
+  "length": 3461,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-01-30T06:40:25.161Z"
+  },
+  "filename": "discovery-and-action-dialog.png",
+  "md5": "bbbfb955bd6e26e550bb209939738bea",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6015003b5d874765204e4f9d"
+  },
+  "length": 3461,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-01-30T06:44:11.084Z"
+  },
+  "filename": "discovery-and-action-dialog.png",
+  "md5": "bbbfb955bd6e26e550bb209939738bea",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "601753ce16c0e76552fcaf5a"
+  },
+  "length": 2212,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-02-01T01:05:18.496Z"
+  },
+  "filename": "generative-relationships.png",
+  "md5": "506274cdaa945fbae49d101e0fd7e774",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6017546516c0e76552fcaf5d"
+  },
+  "length": 2677,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-02-01T01:07:49.110Z"
+  },
+  "filename": "ecocycle.png",
+  "md5": "b2c6efd989e0b3b34bed1db743ccf8f8",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "601754be5d874765204e4fa0"
+  },
+  "length": 3553,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-02-01T01:09:18.978Z"
+  },
+  "filename": "drawing-together.png",
+  "md5": "9dc424ac31b71ba85b752a3a065a8728",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "60175f8b16c0e76552fcaf60"
+  },
+  "length": 3221,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-02-01T01:55:23.859Z"
+  },
+  "filename": "critical-uncertainties.png",
+  "md5": "af41ad4eefe744a8503f1badeac08857",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "601764da16c0e76552fcaf63"
+  },
+  "length": 3553,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-02-01T02:18:02.915Z"
+  },
+  "filename": "drawing-together.png",
+  "md5": "9dc424ac31b71ba85b752a3a065a8728",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6017658716c0e76552fcaf66"
+  },
+  "length": 2677,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-02-01T02:20:55.800Z"
+  },
+  "filename": "ecocycle.png",
+  "md5": "b2c6efd989e0b3b34bed1db743ccf8f8",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "60176c04a5fe1012220c47a4"
+  },
+  "length": 2212,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-02-01T02:48:36.660Z"
+  },
+  "filename": "generative-relationships.png",
+  "md5": "506274cdaa945fbae49d101e0fd7e774",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "601794d20c290042208d21e6"
+  },
+  "length": 3553,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-02-01T05:42:42.036Z"
+  },
+  "filename": "drawing-together.png",
+  "md5": "9dc424ac31b71ba85b752a3a065a8728",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6017c6e2ffc33341f2fe2ea4"
+  },
+  "length": 53689,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-02-01T09:16:18.962Z"
+  },
+  "filename": "google-logo.png",
+  "md5": "1c6e97b732317f835ba3fbd9b7c4f710",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6018ee99ffc33341f2fe2ea7"
+  },
+  "length": 53689,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-02-02T06:18:01.038Z"
+  },
+  "filename": "google-logo.png",
+  "md5": "1c6e97b732317f835ba3fbd9b7c4f710",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6018ef2cffc33341f2fe2ea9"
+  },
+  "length": 53689,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-02-02T06:20:28.969Z"
+  },
+  "filename": "google-logo.png",
+  "md5": "1c6e97b732317f835ba3fbd9b7c4f710",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6018f28f0c290042208d21f0"
+  },
+  "length": 53689,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-02-02T06:34:55.700Z"
+  },
+  "filename": "google-logo.png",
+  "md5": "1c6e97b732317f835ba3fbd9b7c4f710",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6018f2fbffc33341f2fe2eab"
+  },
+  "length": 53689,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-02-02T06:36:43.088Z"
+  },
+  "filename": "google-logo.png",
+  "md5": "1c6e97b732317f835ba3fbd9b7c4f710",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6018f3e2ffc33341f2fe2ead"
+  },
+  "length": 53689,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-02-02T06:40:34.897Z"
+  },
+  "filename": "google-logo.png",
+  "md5": "1c6e97b732317f835ba3fbd9b7c4f710",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6018f47499efd63b75b66ad3"
+  },
+  "length": 53689,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-02-02T06:43:00.109Z"
+  },
+  "filename": "google-logo.png",
+  "md5": "1c6e97b732317f835ba3fbd9b7c4f710",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6018f5215586263b48780119"
+  },
+  "length": 53689,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-02-02T06:45:53.109Z"
+  },
+  "filename": "google-logo.png",
+  "md5": "1c6e97b732317f835ba3fbd9b7c4f710",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6018fdfe99efd63b75b66ad6"
+  },
+  "length": 53557,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-02-02T07:23:42.891Z"
+  },
+  "filename": "WechatIMG37.png",
+  "md5": "6e8ae73f9a04b6bfa4713ff8f6992efc",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6018ffec5586263b4878011c"
+  },
+  "length": 2701,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-02-02T07:31:56.381Z"
+  },
+  "filename": "9-whys.png",
+  "md5": "6a799c6358ad4047d345f601bfa4a2d7",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "601900275586263b4878011e"
+  },
+  "length": 2701,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-02-02T07:32:55.644Z"
+  },
+  "filename": "9-whys.png",
+  "md5": "6a799c6358ad4047d345f601bfa4a2d7",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "601901d75586263b48780120"
+  },
+  "length": 2701,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-02-02T07:40:07.301Z"
+  },
+  "filename": "9-whys.png",
+  "md5": "6a799c6358ad4047d345f601bfa4a2d7",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6019020e99efd63b75b66ad9"
+  },
+  "length": 2701,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-02-02T07:41:02.521Z"
+  },
+  "filename": "9-whys.png",
+  "md5": "6a799c6358ad4047d345f601bfa4a2d7",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "60190c945586263b48780122"
+  },
+  "length": 6216,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-02-02T08:25:56.696Z"
+  },
+  "filename": "panarchy.png",
+  "md5": "980142909124d4d99b0f5e9ba8bd9846",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6019f3c25586263b48780126"
+  },
+  "length": 6216,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-02-03T00:52:18.538Z"
+  },
+  "filename": "panarchy.png",
+  "md5": "980142909124d4d99b0f5e9ba8bd9846",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6019f8945586263b48780128"
+  },
+  "length": 6216,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-02-03T01:12:52.564Z"
+  },
+  "filename": "panarchy.png",
+  "md5": "980142909124d4d99b0f5e9ba8bd9846",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6019f94699efd63b75b66add"
+  },
+  "length": 6216,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-02-03T01:15:50.914Z"
+  },
+  "filename": "panarchy.png",
+  "md5": "980142909124d4d99b0f5e9ba8bd9846",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6019fd1b5586263b4878012c"
+  },
+  "length": 6216,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-02-03T01:32:11.354Z"
+  },
+  "filename": "panarchy.png",
+  "md5": "980142909124d4d99b0f5e9ba8bd9846",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6019fda75586263b4878012e"
+  },
+  "length": 6216,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-02-03T01:34:31.733Z"
+  },
+  "filename": "panarchy.png",
+  "md5": "980142909124d4d99b0f5e9ba8bd9846",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "601a017899efd63b75b66adf"
+  },
+  "length": 6216,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-02-03T01:50:48.101Z"
+  },
+  "filename": "panarchy.png",
+  "md5": "980142909124d4d99b0f5e9ba8bd9846",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "601a02dc5586263b48780130"
+  },
+  "length": 6216,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-02-03T01:56:44.424Z"
+  },
+  "filename": "panarchy.png",
+  "md5": "980142909124d4d99b0f5e9ba8bd9846",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "601a036099efd63b75b66ae1"
+  },
+  "length": 6216,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-02-03T01:58:56.546Z"
+  },
+  "filename": "panarchy.png",
+  "md5": "980142909124d4d99b0f5e9ba8bd9846",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "601a03b099efd63b75b66ae3"
+  },
+  "length": 6216,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-02-03T02:00:16.417Z"
+  },
+  "filename": "panarchy.png",
+  "md5": "980142909124d4d99b0f5e9ba8bd9846",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "601a048399efd63b75b66ae5"
+  },
+  "length": 6216,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-02-03T02:03:47.230Z"
+  },
+  "filename": "panarchy.png",
+  "md5": "980142909124d4d99b0f5e9ba8bd9846",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "601a05275586263b48780132"
+  },
+  "length": 6216,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-02-03T02:06:31.210Z"
+  },
+  "filename": "panarchy.png",
+  "md5": "980142909124d4d99b0f5e9ba8bd9846",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "601a072299efd63b75b66ae7"
+  },
+  "length": 6216,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-02-03T02:14:58.375Z"
+  },
+  "filename": "panarchy.png",
+  "md5": "980142909124d4d99b0f5e9ba8bd9846",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "601a07d599efd63b75b66ae9"
+  },
+  "length": 6216,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-02-03T02:17:57.203Z"
+  },
+  "filename": "panarchy.png",
+  "md5": "980142909124d4d99b0f5e9ba8bd9846",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "601a18ee5586263b48780134"
+  },
+  "length": 3553,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-02-03T03:30:54.312Z"
+  },
+  "filename": "drawing-together.png",
+  "md5": "9dc424ac31b71ba85b752a3a065a8728",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "601b494e99efd63b75b66aff"
+  },
+  "length": 3642,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-02-04T01:09:34.511Z"
+  },
+  "filename": "celebrity-interview.png",
+  "md5": "18fe49968da389bf977b1dbe9051bad1",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "601b4e9999efd63b75b66b02"
+  },
+  "length": 4903,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-02-04T01:32:09.095Z"
+  },
+  "filename": "conversation-cafe.png",
+  "md5": "f7f5fcac77c9c69cc76e8ea328d5aa77",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "601b8a115586263b48780149"
+  },
+  "length": 3553,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-02-04T05:45:53.445Z"
+  },
+  "filename": "drawing-together.png",
+  "md5": "9dc424ac31b71ba85b752a3a065a8728",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "601ceb005586263b4878014e"
+  },
+  "length": 3553,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-02-05T06:51:44.533Z"
+  },
+  "filename": "drawing-together.png",
+  "md5": "9dc424ac31b71ba85b752a3a065a8728",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "60386c5ddd74416923a52dd3"
+  },
+  "length": 2136,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-02-26T03:34:53.804Z"
+  },
+  "filename": "agree-certainty-matrix.png",
+  "md5": "e48273b53d0c8f009edce9e916dc6fd0",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6038b924b8c1e4694f60f672"
+  },
+  "length": 4903,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-02-26T09:02:28.954Z"
+  },
+  "filename": "conversation-cafe.png",
+  "md5": "f7f5fcac77c9c69cc76e8ea328d5aa77",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6038b9f3dd74416923a52dd7"
+  },
+  "length": 3461,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-02-26T09:05:55.324Z"
+  },
+  "filename": "discovery-and-action-dialog.png",
+  "md5": "bbbfb955bd6e26e550bb209939738bea",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6038bda6b8c1e4694f60f675"
+  },
+  "length": 4679,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-02-26T09:21:42.093Z"
+  },
+  "filename": "improv-prototyping.png",
+  "md5": "3b96bca7e67311a74d667e6c1bbc5ab0",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6038bdbcb8c1e4694f60f677"
+  },
+  "length": 3553,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-02-26T09:22:04.489Z"
+  },
+  "filename": "drawing-together.png",
+  "md5": "9dc424ac31b71ba85b752a3a065a8728",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "603d8e46dd74416923a52de3"
+  },
+  "length": 3461,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-03-02T01:00:54.341Z"
+  },
+  "filename": "discovery-and-action-dialog.png",
+  "md5": "bbbfb955bd6e26e550bb209939738bea",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "60580814dd74416923a52def"
+  },
+  "length": 2136,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-03-22T02:59:32.070Z"
+  },
+  "filename": "agree-certainty-matrix.png",
+  "md5": "e48273b53d0c8f009edce9e916dc6fd0",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "60582d1ab8c1e4694f60f690"
+  },
+  "length": 3221,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-03-22T05:37:30.432Z"
+  },
+  "filename": "critical-uncertainties.png",
+  "md5": "af41ad4eefe744a8503f1badeac08857",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "605833bedd74416923a52df2"
+  },
+  "length": 2189,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-03-22T06:05:50.116Z"
+  },
+  "filename": "design-storyboards.png",
+  "md5": "c3f9d91de22a1a23e574abeb8b9bab36",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "605837f4b8c1e4694f60f692"
+  },
+  "length": 3461,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-03-22T06:23:48.518Z"
+  },
+  "filename": "discovery-and-action-dialog.png",
+  "md5": "bbbfb955bd6e26e550bb209939738bea",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "60583f4eb8c1e4694f60f694"
+  },
+  "length": 3553,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-03-22T06:55:10.811Z"
+  },
+  "filename": "drawing-together.png",
+  "md5": "9dc424ac31b71ba85b752a3a065a8728",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "605844b4dd74416923a52df7"
+  },
+  "length": 2677,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-03-22T07:18:12.707Z"
+  },
+  "filename": "ecocycle.png",
+  "md5": "b2c6efd989e0b3b34bed1db743ccf8f8",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "60584507dd74416923a52df9"
+  },
+  "length": 1835,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-03-22T07:19:35.193Z"
+  },
+  "filename": "1-2-4-all.png",
+  "md5": "a36ff6b902cfeba7a363b6aae6b7a3f5",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "605848fab8c1e4694f60f697"
+  },
+  "length": 2677,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-03-22T07:36:26.746Z"
+  },
+  "filename": "ecocycle.png",
+  "md5": "b2c6efd989e0b3b34bed1db743ccf8f8",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "605850e6b8c1e4694f60f699"
+  },
+  "length": 2212,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-03-22T08:10:14.343Z"
+  },
+  "filename": "generative-relationships.png",
+  "md5": "506274cdaa945fbae49d101e0fd7e774",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "605869b6dd74416923a52dfc"
+  },
+  "length": 6283,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-03-22T09:56:06.108Z"
+  },
+  "filename": "heard-seen-respected.png",
+  "md5": "262b07fff7a03d2179ba342cdd472531",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "605947beb8c1e4694f60f69d"
+  },
+  "length": 3510,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-03-23T01:43:26.086Z"
+  },
+  "filename": "helping-heuristics.png",
+  "md5": "90b2fddecd3f7512e0d508c27e21f3fb",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "60595185dd74416923a52dfe"
+  },
+  "length": 6200,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-03-23T02:25:09.461Z"
+  },
+  "filename": "impromptu-networking.png",
+  "md5": "eb1cda2cedc3ed30b6c0267bf2111c40",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "605956f4b8c1e4694f60f6a1"
+  },
+  "length": 4679,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-03-23T02:48:20.476Z"
+  },
+  "filename": "improv-prototyping.png",
+  "md5": "3b96bca7e67311a74d667e6c1bbc5ab0",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "60595aa3dd74416923a52e01"
+  },
+  "length": 2948,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-03-23T03:04:03.439Z"
+  },
+  "filename": "integrated-autonomy.png",
+  "md5": "7697b8d450e040deaf5be8a64d359c41",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "60595e22dd74416923a52e03"
+  },
+  "length": 6534,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-03-23T03:18:58.841Z"
+  },
+  "filename": "min-specs.png",
+  "md5": "23151b075757fd32706a8499fe5003e5",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "60598801dd74416923a52e05"
+  },
+  "length": 8063,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-03-23T06:17:37.047Z"
+  },
+  "filename": "wise-crowds.png",
+  "md5": "cae18cbc2cc8ac9cb18ef2e16dfe1809",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "605990a2b8c1e4694f60f6a5"
+  },
+  "length": 8063,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-03-23T06:54:26.162Z"
+  },
+  "filename": "wise-crowds.png",
+  "md5": "cae18cbc2cc8ac9cb18ef2e16dfe1809",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "60599237dd74416923a52e07"
+  },
+  "length": 4911,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-03-23T07:01:11.417Z"
+  },
+  "filename": "open-space.png",
+  "md5": "83940a7ad9dcc32a3e6dead3a1fe77ed",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "605994e0b8c1e4694f60f6a8"
+  },
+  "length": 62139,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-03-23T07:12:32.432Z"
+  },
+  "filename": "OST short table.png",
+  "md5": "3791b28f24f2a434127446b4227beda4",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "60599502dd74416923a52e09"
+  },
+  "length": 62139,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-03-23T07:13:06.814Z"
+  },
+  "filename": "OST short table.png",
+  "md5": "3791b28f24f2a434127446b4227beda4",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6059999add74416923a52e0b"
+  },
+  "length": 6216,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-03-23T07:32:42.743Z"
+  },
+  "filename": "panarchy.png",
+  "md5": "980142909124d4d99b0f5e9ba8bd9846",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6059a7ffdd74416923a52e0d"
+  },
+  "length": 8063,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-03-23T08:34:07.669Z"
+  },
+  "filename": "wise-crowds.png",
+  "md5": "cae18cbc2cc8ac9cb18ef2e16dfe1809",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6059acfbb8c1e4694f60f6ad"
+  },
+  "length": 4115,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-03-23T08:55:23.901Z"
+  },
+  "filename": "purpose-to-practice.png",
+  "md5": "d311111ab3935ae645f9671aef97f0f7",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6059ad79b8c1e4694f60f6af"
+  },
+  "length": 2639,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-03-23T08:57:29.211Z"
+  },
+  "filename": "wicked-questions.png",
+  "md5": "37495eafb50575c73aa9c5d17ab92617",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6059ae09b8c1e4694f60f6b1"
+  },
+  "length": 4115,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-03-23T08:59:53.425Z"
+  },
+  "filename": "purpose-to-practice.png",
+  "md5": "d311111ab3935ae645f9671aef97f0f7",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6059ae38b8c1e4694f60f6b3"
+  },
+  "length": 4115,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-03-23T09:00:40.426Z"
+  },
+  "filename": "purpose-to-practice.png",
+  "md5": "d311111ab3935ae645f9671aef97f0f7",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6059ae4add74416923a52e10"
+  },
+  "length": 2701,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-03-23T09:00:58.026Z"
+  },
+  "filename": "9-whys.png",
+  "md5": "6a799c6358ad4047d345f601bfa4a2d7",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6059ae76b8c1e4694f60f6b5"
+  },
+  "length": 2701,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-03-23T09:01:42.268Z"
+  },
+  "filename": "9-whys.png",
+  "md5": "6a799c6358ad4047d345f601bfa4a2d7",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6059b200b8c1e4694f60f6b8"
+  },
+  "length": 2701,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-03-23T09:16:48.243Z"
+  },
+  "filename": "what-3-debrief.png",
+  "md5": "64b4221a7eb0738fcae3b4dc8b73c200",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6059b63cb8c1e4694f60f6ba"
+  },
+  "length": 1223,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-03-23T09:34:52.164Z"
+  },
+  "filename": "what-i-need-from-you.png",
+  "md5": "ca30f3c6f56c28b48ef622f146cf39a8",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6059b6b2dd74416923a52e13"
+  },
+  "length": 6083,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-03-23T09:36:50.468Z"
+  },
+  "filename": "shift-and-share.png",
+  "md5": "f598733b663f01619c183bfe093b9320",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6059b8d6b8c1e4694f60f6bd"
+  },
+  "length": 9682,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-03-23T09:45:58.419Z"
+  },
+  "filename": "simple-ethnography.png",
+  "md5": "a31d8562041379a0d9698a62cf3d025e",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6059baf7b8c1e4694f60f6bf"
+  },
+  "length": 5797,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-03-23T09:55:03.128Z"
+  },
+  "filename": "social-network-webbing.png",
+  "md5": "69fdb54952607444c3a6f7e07b2d04c2",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6059bb06dd74416923a52e17"
+  },
+  "length": 1895,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-03-23T09:55:18.717Z"
+  },
+  "filename": "user-experience-fishbowl.png",
+  "md5": "3801edec07f391fb92acdac47f89f08b",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6059be7cdd74416923a52e19"
+  },
+  "length": 2288,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-03-23T10:10:04.151Z"
+  },
+  "filename": "triz.png",
+  "md5": "cc1399867c5d9e1bca361add44df8b5d",
+  "contentType": "image/png"
+},
+{
+  "_id": {
+    "$oid": "6059bf0bb8c1e4694f60f6c4"
+  },
+  "length": 3279,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-03-23T10:12:27.176Z"
+  },
+  "filename": "troika-consulting.png",
+  "md5": "8b04d8e76758c5f4cf280b04fd35621a",
+  "contentType": "image/png"
+}]
