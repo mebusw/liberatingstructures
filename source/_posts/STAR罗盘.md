@@ -22,7 +22,7 @@ tags:
 ### 其他信息
 请参考LS官方网站（上面包含一些实战图片及图例）<https://www.liberatingstructures.com/26-generative-relationships-st>以及：<https://www.colleaga.org/tools/generative-relationships-star>
 ### 原始作者
-首先由 Brenda Zimmerman教授研发（请参考 Change-Ability: http://www.change-ability.ca/)， 然后由Henri Lipmanowicz 及 Keith McCandless改造而来
+首先由 Brenda Zimmerman教授研发（请参考 Change-Ability: http://www.change-ability.ca/）， 然后由Henri Lipmanowicz 及 Keith McCandless改造而来
 
 ## How
 ### 打造邀请

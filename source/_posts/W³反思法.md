@@ -23,7 +23,7 @@ tags:
 ### 其他信息
 请参考LS官方网站（上面包含一些实战图片及图例）
 ### 原始作者
-由Henri Lipmanowicz和Keith McCandless开发的释放性结构LS共创工具。Chris Argyris通过著作《Reasoning, Learning, and Action: Individual and Organzational》介绍了“影响力阶梯（Ladder of Inference)”的概念。另外，Peter Senge通过《第五项修炼》把“影响力阶梯"普及开来
+由Henri Lipmanowicz和Keith McCandless开发的释放性结构LS共创工具。Chris Argyris通过著作《Reasoning, Learning, and Action: Individual and Organzational》介绍了“影响力阶梯（Ladder of Inference）”的概念。另外，Peter Senge通过《第五项修炼》把“影响力阶梯"普及开来
 
 ## How
 打造邀请- 分享完经历后，问："是什么？发生了什么？你注意到了什么，哪些是事实，哪些是你的观察？"然后，在收集了所有重要的观察之后，问："所以呢？为什么这很重要？出现了什么模式或结论？你能提出什么假设？"然后，在充分的意义建构（sense making）结束后，问："现在呢？哪些行动有意义？"
