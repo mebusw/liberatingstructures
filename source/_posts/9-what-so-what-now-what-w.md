@@ -21,7 +21,7 @@ tags:
 你可以帮助各团体对共同的经历进行反思，以建立一种方式，可以加强理解和促进协调行动，同时避免无益的冲突。在筛选洞察力和形成新方向的同时，尽可能让每个人的声音都能被听到。阶段性的进展使这一过程变得切实可行--从收集关于"发生了什么"的事实，到用"那么是什么"来理解这些事实，最后到用"现在是什么"来采取什么行动，这样是符合逻辑的。这种共同的进展消除了大部分的误解，否则就会引发关于该做什么的分歧。让我们开始吧!
 
 ### 其他信息
-请参考LS官方网站（上面包含一些实战图片及图例）
+请参考LS官方网站（上面包含一些实战图片及图例）<https://www.liberatingstructures.com/9-what-so-what-now-what-w/>
 ### 原始作者
 由Henri Lipmanowicz和Keith McCandless开发的释放性结构LS共创工具。Chris Argyris通过著作《Reasoning, Learning, and Action: Individual and Organzational》介绍了“影响力阶梯（Ladder of Inference）”的概念。另外，Peter Senge通过《第五项修炼》把“影响力阶梯"普及开来。
 由上海优普丰企业管理咨询敏捷AI培训机构的顾问、学员、志愿者团队共同翻译。

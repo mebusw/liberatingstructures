@@ -20,7 +20,7 @@ tags:
 可以用来帮助一群人了解他们是如何一起工作的，并确定能做出的改变以提高团体绩效。不需要中间人，所有人就可以一起诊断当前的关系模式，并决定一起采取后续的行动步骤。STAR罗盘工具可以帮助小组成员了解他们的哪些关系特征对创造性生产力产生正向或者负面的影响。初步诊断中使用的罗盘也可以在后面用来评估更优化的关系模式的发展进展。
 
 ### 其他信息
-请参考LS官方网站（上面包含一些实战图片及图例）<https://www.liberatingstructures.com/26-generative-relationships-st>以及：<https://www.colleaga.org/tools/generative-relationships-star>
+请参考LS官方网站（上面包含一些实战图片及图例）<https://www.liberatingstructures.com/26-generative-relationships-st/>
 ### 原始作者
 首先由 Brenda Zimmerman教授研发（请参考 Change-Ability: http://www.change-ability.ca/）， 然后由Henri Lipmanowicz 及 Keith McCandless改造而来。
 由上海优普丰企业管理咨询敏捷AI培训机构的顾问、学员、志愿者团队共同翻译。

@@ -19,7 +19,7 @@ tags:
 ### 什么成为可能
 每一个创造的行为组初始都是一个破坏的行为。(巴勃罗-毕加索 Pablo Picasso)你可以明确指出是什么（众所周知，但极少承认）限制了他们成功的无限性，或者开发他们的破坏力，从而达到发掘他们创造力的目的。TRIZ就实现了如何安全地挑战圣牛这一活动，此外他们还提倡异端思维。“我们必须停止什么，从而让我们的最终目标能顺利进行？“这个问题就是一场十分有趣且有勇气的对话。面对一些禁忌话题的时候，由于经常性地被嘲笑，就会容易暴露出来，从而引起讨论。伴随着创造性破坏，行动和创新填补了空白，带来了很大的发展空间。Whoosh！
 ### 其他信息
-请参考LS官方网站（上面包含一些实战图片及图例）
+请参考LS官方网站（上面包含一些实战图片及图例）<https://www.liberatingstructures.com/6-making-space-with-triz/>
 ### 原始作者
 由Henri Lipmanowicz和Keith McCandless开发的LS共创工具。灵感来自同名称的俄罗斯工程方法的一小片段： teoriya resheniya izobretatelskikh zadatch（<https://en.wikipedia.org/wiki/TRIZ>）
 由上海优普丰企业管理咨询敏捷AI培训机构的顾问、学员、志愿者团队共同翻译。

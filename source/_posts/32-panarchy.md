@@ -18,7 +18,7 @@ tags:
 ## What
 ### 什么成为可能
 如果一个生命系统的健康状况不佳，那么补救的办法就是让它与更多的自身连接起来。(弗朗西斯科-瓦雷拉Francisco Varella)你可以帮助一大群人在多个层面识别传播想法或创新的障碍和机会。扰沌（Panarchy）使人们能够直观地看到各级系统是如何嵌套叠加的，并帮助他们了解这些依存关系是如何影响变革的传播。通过扰沌，参与者会对有助于将想法传播到各级上层系统的小变化更加警觉；他们也会了解到在较大范围或较底层的系统的转变如何释放资源来协助另一层面。在更好地理解了生态周期的动态作用后，大家为创新创造了"机会窗口"，并使其在不同层面和边界穿越传播。### 其他信息
-请参考LS官方网站（上面包含一些实战图片及图例）
+请参考LS官方网站（上面包含一些实战图片及图例）<https://www.liberatingstructures.com/32-panarchy/>
 ### 原始作者
 源自 Frances Westley 教授的成果，由Henri Lipmanowicz和Keith McCandless整理出来的LS共创工具（参考相关著作：Panachy: Understanding Transformations in Human and Natural Systems, 作者 Gunderson 及 Holling）
 由上海优普丰企业管理咨询敏捷AI培训机构的顾问、学员、志愿者团队共同翻译。

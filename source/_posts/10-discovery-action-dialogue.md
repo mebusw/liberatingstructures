@@ -19,7 +19,7 @@ tags:
 ### 什么成为可能
 现在就活在问题中吧，也许在不知不觉中，你会在某一天活出答案。(雷尼尔-玛丽亚-里尔克 Rainier Maria Rilke)利用DAD，群体或社区很容易发掘一些实践和行为。这些实践和行为促使人(在没有获得特殊资源和面临同样限制的情况下)能够找到更好的解决问题的办法。这被称为正向离经叛道（PD）行为和实践。DAD使群体、单位或社区中的人有可能自己来发现这些PD实践。DAD还为激发参与者的创造力创造了有利条件，他们可以毫无拘束地发明更有效的创意。当参与者从约束中解放出来，自由地选择采用或尝试哪些实践，以及他们将解决哪些问题时，变革的阻力就会消失无影无踪。DAD使大家有可能拥抱并拥有前线解决办法。
 ### 其他信息
-请参考LS官方网站（上面包含一些实战图片及图例）
+请参考LS官方网站（上面包含一些实战图片及图例）<https://www.liberatingstructures.com/10-discovery-action-dialogue/>
 ### 原始作者
 由Henri Lipmanowicz和Keith McCandless与一群教练通过致力于消除MRSA在医院里传播的项目中开发的LS共创工具（教练包括 Sharon Benjamin, Kevin Buck, Lisa Kimball, Curt Lindberg, Jon Lloyd, Mark Munger, Jerry Sternin, Monique Sternin, 及Margaret Toth）。受Jerry及Monique Stern关于正向异常（Positive Deviance）研究的启发
 由上海优普丰企业管理咨询敏捷AI培训机构的顾问、学员、志愿者团队共同翻译。

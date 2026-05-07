@@ -19,7 +19,7 @@ tags:
 ### 什么成为可能
 在不同职能和专业工作的人可以迅速改进他们向对方询问成功所需内容的方式。你可以通过揭开小组成员为实现共同目标所需要的神秘面纱，来修补误解或消除长期依赖形成的偏见。由于参与者向其他人表达核心需求，并且每个参与交流的人都有机会做出回应，你就可以在促进跨部门的凝聚力，及协调的同时提高清晰度、完整性和透明度: 你可以把不同的人重新聚在一起（put Humpty Dumpty back together again）!
 ### 其他信息
-请参考LS官方网站（上面包含一些实战图片及图例）
+请参考LS官方网站（上面包含一些实战图片及图例）<https://www.liberatingstructures.com/24-what-i-need-from-you-winfy/>
 ### 原始作者
 由Henri Lipmanowicz和Keith McCandless开发的释放性结构LS共创工具。受到顾问Kathie Dannemille和Dan Pesut教授的启发。
 由上海优普丰企业管理咨询敏捷AI培训机构的顾问、学员、志愿者团队共同翻译。
