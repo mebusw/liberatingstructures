@@ -1,5 +1,6 @@
 ---
 title: 共识-确定性矩阵
+date: 2019-09-28 00:33:27
 tags:
     - liberating-structures
     - 分析

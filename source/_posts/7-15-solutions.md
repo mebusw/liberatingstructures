@@ -1,5 +1,6 @@
 ---
 title: 15%解决方案
+date: 2019-09-28 00:33:07
 tags:
     - liberating-structures
     - 揭示

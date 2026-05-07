@@ -1,5 +1,6 @@
 ---
 title: 关键-不确定
+date: 2019-09-28 00:33:30
 tags:
     - liberating-structures
     - 策略

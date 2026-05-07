@@ -1,5 +1,6 @@
 ---
 title: 从目的到实践（P2P）
+date: 2019-09-28 00:33:33
 tags:
     - liberating-structures
     - 规划

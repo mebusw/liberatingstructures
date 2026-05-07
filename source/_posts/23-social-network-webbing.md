@@ -1,5 +1,6 @@
 ---
 title: 社交网络图
+date: 2019-09-28 00:33:23
 tags:
     - liberating-structures
     - 传播

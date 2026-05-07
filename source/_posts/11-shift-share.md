@@ -1,5 +1,6 @@
 ---
 title: 轮转和分享
+date: 2019-09-28 00:33:11
 tags:
     - liberating-structures
     - 传播

@@ -1,5 +1,6 @@
 ---
 title: 25/10集体智慧
+date: 2019-09-28 00:33:12
 tags:
     - liberating-structures
     - 揭示

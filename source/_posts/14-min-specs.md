@@ -1,5 +1,6 @@
 ---
 title: 最小规格
+date: 2019-09-28 00:33:14
 tags:
     - liberating-structures
     - 策略

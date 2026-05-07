@@ -1,5 +1,6 @@
 ---
 title: 开放空间技术
+date: 2019-09-28 00:33:25
 tags:
     - liberating-structures
     - 揭示

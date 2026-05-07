@@ -1,5 +1,6 @@
 ---
 title: 欣赏式访谈
+date: 2019-09-28 00:33:05
 tags:
     - liberating-structures
     - 揭示

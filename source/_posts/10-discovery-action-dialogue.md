@@ -1,5 +1,6 @@
 ---
 title: 探索行动对话（DAD）
+date: 2019-09-28 00:33:10
 tags:
     - liberating-structures
     - 揭示

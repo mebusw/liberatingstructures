@@ -1,5 +1,6 @@
 ---
 title: 9 Whys
+date: 2019-09-28 00:33:03
 tags:
     - liberating-structures
     - 分析

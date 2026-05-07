@@ -1,5 +1,6 @@
 ---
 title: 整合-自主
+date: 2019-09-28 00:33:29
 tags:
     - liberating-structures
     - 策略

@@ -1,5 +1,6 @@
 ---
 title: 实地观察访谈
+date: 2019-09-28 00:33:28
 tags:
     - liberating-structures
     - 揭示

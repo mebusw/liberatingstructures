@@ -1,5 +1,6 @@
 ---
 title: W³反思法
+date: 2019-09-28 00:33:09
 tags:
     - liberating-structures
     - 分析
