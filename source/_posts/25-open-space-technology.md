@@ -60,7 +60,7 @@ Harrison Owen发明了开放空间技术（参看书籍《Open Space Technology:
 - 没有"双脚法则"的会议--名义上议程由与会者制定，但人们不能自由地参加他们选择的会议--不是开放空间!
 ### 即兴发挥
 - 每天上午第二次重开市场（可能会出现更大的合作）
-- 在你开始开放空间之前，用[[名人采访]]、[[欣赏式访谈]]和/或[[TRIZ]]串起来，用[[25/10集体智慧]]结尾
+- 在你开始开放空间之前，用[名人采访](/22-celebrity-interview)、[欣赏式访谈](/5-appreciative-interviews-ai)和/或[TRIZ](/6-making-space-with-triz)串起来，用[25/10集体智慧](/12-2510-crowd-sourcing)结尾
 - 其他形式的开放空间称为 unconferences 和 BarCamps（“自驱动会议”和”酒吧营地“）
 
 ## Why

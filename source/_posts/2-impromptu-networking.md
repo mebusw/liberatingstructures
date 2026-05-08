@@ -54,8 +54,8 @@ tags:
 ### 即兴发挥
 - 玩不同的问题。你想解决什么问题？我们上一次见面后还遗留什么挑战？你想证实什么预感？
 - 将小组带到会议室外，以增加乐趣
-- 串联到[[社交网络图]]
-- 通过[[15%解决方案]]，请参与者制定一个简单的跟进计划
+- 串联到[社交网络图](/23-social-network-webbing)
+- 通过[15%解决方案](/7-15-solutions)，请参与者制定一个简单的跟进计划
 - 若时间紧迫，可以简短一些
 - 尝试一个生动的变化，叫做液态勇气（Liquid Courage）（由More Than An Option, Inc.的创始人Jamie Owens和Keith McCandless共同开发）。请每个人结对，在1分钟或更短的时间内完成这些开放的句子。要是......他们让我......我必须......这就是事实。如果他们____，那么我就可以______!（英文原文：If only…. They make me… I have to… … that’s just the way it is. If they would ____ then I could ______！）
 
