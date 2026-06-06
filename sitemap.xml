@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://liberatingstructures.com.cn/strings/index.html</loc>
+    
+    <lastmod>2026-06-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://liberatingstructures.com.cn/index/</loc>
+    
+    <lastmod>2026-06-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://liberatingstructures.com.cn/community/index.html</loc>
     
     <lastmod>2026-05-08</lastmod>
@@ -30,15 +48,6 @@
   
   <url>
     <loc>https://liberatingstructures.com.cn/9-what-so-what-now-what-w/</loc>
-    
-    <lastmod>2026-05-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://liberatingstructures.com.cn/strings/index.html</loc>
     
     <lastmod>2026-05-08</lastmod>
     
@@ -317,15 +326,6 @@
   </url>
   
   <url>
-    <loc>https://liberatingstructures.com.cn/index/</loc>
-    
-    <lastmod>2026-05-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://liberatingstructures.com.cn/books/index.html</loc>
     
     <lastmod>2026-05-07</lastmod>
@@ -346,7 +346,7 @@
 
   <url>
     <loc>https://liberatingstructures.com.cn/</loc>
-    <lastmod>2026-05-08</lastmod>
+    <lastmod>2026-06-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -354,49 +354,49 @@
   
   <url>
     <loc>https://liberatingstructures.com.cn/tags/liberating-structures/</loc>
-    <lastmod>2026-05-08</lastmod>
+    <lastmod>2026-06-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://liberatingstructures.com.cn/tags/%E6%8F%AD%E7%A4%BA/</loc>
-    <lastmod>2026-05-08</lastmod>
+    <lastmod>2026-06-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://liberatingstructures.com.cn/tags/%E4%BC%A0%E6%92%AD/</loc>
-    <lastmod>2026-05-08</lastmod>
+    <lastmod>2026-06-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://liberatingstructures.com.cn/tags/%E7%AD%96%E7%95%A5/</loc>
-    <lastmod>2026-05-08</lastmod>
+    <lastmod>2026-06-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://liberatingstructures.com.cn/tags/%E5%B8%AE%E5%8A%A9/</loc>
-    <lastmod>2026-05-08</lastmod>
+    <lastmod>2026-06-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://liberatingstructures.com.cn/tags/%E8%A7%84%E5%88%92/</loc>
-    <lastmod>2026-05-08</lastmod>
+    <lastmod>2026-06-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://liberatingstructures.com.cn/tags/%E5%88%86%E6%9E%90/</loc>
-    <lastmod>2026-05-08</lastmod>
+    <lastmod>2026-06-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
