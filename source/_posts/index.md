@@ -6,6 +6,8 @@ tags:
 ---
 # Liberating Structures 中文索引
 
+本网站将于 2026 年 11 月下线，后续内容维护和更新请访问 https://academy.uperform.cn/toolbox 
+
 | 编号 | Icon | 中文标题 | 简介 |
 |:----:|:----:|:--------:|:-----|
 | 1 | <img src="../media/60125b2f49e710024c689289.png" style="height:40px" /> | [1-2-4-all](1-1-2-4-all) | 让大家同时参与讨论问题、思想激荡和提出建议 |
